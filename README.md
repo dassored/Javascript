@@ -1,1 +1,1 @@
-# javascript
+# javascript (mini projet)
